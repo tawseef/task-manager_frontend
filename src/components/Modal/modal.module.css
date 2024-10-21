@@ -1,0 +1,13 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.inputBox{
+    height: 30px;
+    padding: 20px;
+    width: 350px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
